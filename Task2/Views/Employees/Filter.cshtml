@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Employee>
+<h2>Employees with Salary above threshold</h2>
+<form method="get">
+	<input type="number" step="1000" name="minSalary" placeholder="Enter Salary" />
+	<button type="submit">Filter</button>
+</form>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Salary</th>
+			<th>Department</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var emp in Model)
+		{
+			<tr>
+				<td>@emp.EmployeeId</td>
+				<td>@emp.Name</td>
+				<td>@emp.Salary</td>
+				<td>@emp.Department</td>
+			</tr>
+		}
+	</tbody>
+</table>

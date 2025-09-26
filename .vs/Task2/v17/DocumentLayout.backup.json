@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udineshz\\source\\repos\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udineshz\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\views\\employees\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\views\\employees\\filter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926114814_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task2\\Migrations\\20250926114814_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926114648_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task2\\Migrations\\20250926114648_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|c:\\users\\udineshz\\source\\repos\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D289CE0-A901-4BD0-AA7C-E78D1B7763A5}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926113728_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task2\\Migrations\\20250926113728_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udineshz\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\udineshz\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filter.cshtml",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Views\\Employees\\Filter.cshtml",
+              "RelativeDocumentMoniker": "Task2\\Views\\Employees\\Filter.cshtml",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Views\\Employees\\Filter.cshtml",
+              "RelativeToolTip": "Task2\\Views\\Employees\\Filter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T11:58:06.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Task2\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Task2\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:51:51.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:41:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-26T11:43:35.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task2\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "Task2\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T11:42:07.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Task2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Models\\Employee.cs",
+              "RelativeToolTip": "Task2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:29:44.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250926114648_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926114648_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task2\\Migrations\\20250926114648_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926114648_InitialCreate.cs",
+              "RelativeToolTip": "Task2\\Migrations\\20250926114648_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:46:48.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250926114814_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926114814_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task2\\Migrations\\20250926114814_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926114814_InitialCreate.cs",
+              "RelativeToolTip": "Task2\\Migrations\\20250926114814_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:48:14.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\appsettings.json",
+              "RelativeDocumentMoniker": "Task2\\appsettings.json",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\appsettings.json",
+              "RelativeToolTip": "Task2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T11:31:16.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Task2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Task2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:32:28.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:35:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250926113728_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926113728_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task2\\Migrations\\20250926113728_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\udineshz\\source\\repos\\Task2\\Task2\\Migrations\\20250926113728_InitialCreate.cs",
+              "RelativeToolTip": "Task2\\Migrations\\20250926113728_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:37:28.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
